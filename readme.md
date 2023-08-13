@@ -8,23 +8,25 @@
 
 ## 📝 Content List
 
-#### [Episode 1 : Execution Context](./notes/lecture-1.md)
+#### [All in One](./notes/lecture-00.md)
 
-#### [Episode 2 : How JS is executed & Call Stack](./notes/lecture-2.md)
+#### [Episode 1 : Execution Context](./notes/lecture-01.md)
 
-#### [Episode 3 : Hoisting in JavaScript (variables & functions)](./notes/lecture-3.md)
+#### [Episode 2 : How JS is executed & Call Stack](./notes/lecture-02.md)
 
-#### [Episode 4 : Functions and Variable Environments](./notes/lecture-4.md)
+#### [Episode 3 : Hoisting in JavaScript (variables & functions)](./notes/lecture-03.md)
 
-#### [Episode 5 : Shortest JS Program, window & this keyword](./notes/lecture-5.md)
+#### [Episode 4 : Functions and Variable Environments](./notes/lecture-04.md)
 
-#### [Episode 6 : undefined vs not defined in JS](./notes/lecture-6.md)
+#### [Episode 5 : Shortest JS Program, window & this keyword](./notes/lecture-05.md)
 
-#### [Episode 7 : The Scope Chain, Scope & Lexical Environment](./notes/lecture-7.md)
+#### [Episode 6 : undefined vs not defined in JS](./notes/lecture-06.md)
 
-#### [Episode 8 : let & const in JS, Temporal Dead Zone](./notes/lecture-8.md)
+#### [Episode 7 : The Scope Chain, Scope & Lexical Environment](./notes/lecture-07.md)
 
-#### [Episode 9 : Block Scope & Shadowing in JS](./notes/lecture-9.md)
+#### [Episode 8 : let & const in JS, Temporal Dead Zone](./notes/lecture-08.md)
+
+#### [Episode 9 : Block Scope & Shadowing in JS](./notes/lecture-09.md)
 
 #### [Episode 10 : Closure in JS](./notes/lecture-10.md)
 
@@ -47,6 +49,14 @@
 #### [Episode 19 : map, filter & reduce](./notes/lecture-19.md)
 
 <br>
+
+### 📌 <ins>Season 2<ins>
+
+#### [Episode 1 : Callback Hell](./notes/lecture-20.md)
+
+#### [Episode 2 : Promises](./notes/lecture-21.md)
+
+#### [Episode 3 : Creating a Promise, Chaining & Error Handling](./notes/lecture-22.md)
 
 ## 🤝 Contribution Guidelines
 
